@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//resubmitting
 public class DivisionHandling {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
